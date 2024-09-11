@@ -6,7 +6,7 @@ This project demonstrates how to use LSTM (Long Short-Term Memory) networks for 
 ## **Project Structure**
 
 ```
-cryptanalysis-lstm/
+Time-Series-Cryptanalysis-Using-LSTM-Networks/
 │
 ├── data/                             # Directory to hold the generated dataset
 │   └── .gitignore                    # Ignores the generated CSV files
@@ -30,8 +30,8 @@ cryptanalysis-lstm/
 ### **1. Clone the Repository**
 First, clone this repository to your local machine:
 ```bash
-git clone https://github.com/Annkkitaaa/Time-Series-Cryptanalysis-Using-LSTM-Networks/cryptanalysis-lstm.git
-cd cryptanalysis-lstm
+git clone https://github.com/Annkkitaaa/Time-Series-Cryptanalysis-Using-LSTM-Networks.git
+cd Time-Series-Cryptanalysis-Using-LSTM-Networks
 ```
 
 ### **2. Set Up a Python Virtual Environment**
@@ -121,6 +121,3 @@ Here are some possible enhancements for the project:
 - Implement adversarial attacks on the model to evaluate robustness.
 - Expand the model to handle larger datasets and more complex encryption schemes.
 - Add attention mechanisms to the LSTM model for improved performance.
-
- 
-
